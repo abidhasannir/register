@@ -1,0 +1,12 @@
+{
+    "description": "abid.is-a.dev",
+    "repo": "https://github.com/abidhasannir/abidhasannir.github.io",
+    "owner": {
+        "username": "abidhasannir",
+        "email": "abidhasannir@gmail.com",
+        "discord": "abidhasannir"
+    },
+    "record": {
+        "CNAME": "abidhasannir.github.io"
+    }
+}
