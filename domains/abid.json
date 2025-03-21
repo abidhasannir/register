@@ -1,0 +1,9 @@
+{
+  "domain": "abid.is-a.dev",
+  "owner": {
+    "email": "abidhasannir@gmail.com"
+  },
+  "records": {
+    "CNAME": "abidhasannir.github.io"
+  }
+}
